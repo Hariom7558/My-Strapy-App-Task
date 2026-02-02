@@ -26,6 +26,8 @@ yarn start
 
 Build your admin panel. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-build)
 
+This setup was completed as part of the Strapi onboarding task.
+
 ```
 npm run build
 # or
