@@ -62,4 +62,14 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ## Project Overview
 
 This is a Strapi application created as part of a technical task.
+# Strapi Setup Task
+
+This repository contains a local setup of the Strapi project as part of the assigned task.
+
+## Steps Followed
+
+### 1. Clone Strapi Repository
+```bash
+git clone https://github.com/strapi/strapi
+
 
