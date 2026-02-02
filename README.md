@@ -26,6 +26,8 @@ yarn start
 
 Build your admin panel. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-build)
 
+This setup was completed as part of the Strapi onboarding task.
+
 ```
 npm run build
 # or
@@ -59,3 +61,17 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+## Project Overview
+
+This is a Strapi application created as part of a technical task.
+# Strapi Setup Task
+
+This repository contains a local setup of the Strapi project as part of the assigned task.
+
+## Steps Followed
+
+### 1. Clone Strapi Repository
+```bash
+git clone https://github.com/strapi/strapi
+
+
